@@ -6,6 +6,7 @@ Such that when searched the entire case file can be accessed to view virtually o
 Also the database is such that one can search the keywords, assigned as tags to all the cases, and get a filtered results. 
 
 ## Steps till now
+1. python3
 1. Install pip
 1. Install virtualenv, virtualenvwrapper
 1. Create a virtualenv
